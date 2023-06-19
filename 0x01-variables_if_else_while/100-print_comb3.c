@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main - function to print combination of two numbers
- *Return: Always 0
+ *Return: Always 0 (success)
  */
 int main(void)
 {
